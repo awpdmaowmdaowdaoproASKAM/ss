@@ -8,7 +8,7 @@
 
 
 ModIDS = {
-    1594642182,
+    2728470530,
     }
 
     BoxingChampion = {
@@ -20,8 +20,7 @@ ModIDS = {
     }
 
     admin = {
-    690643432,
-    3092585975,
+    2826454935,
     }
 
 --\\ Don't mess with anything below this

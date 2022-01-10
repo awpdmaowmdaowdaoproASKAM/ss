@@ -20,7 +20,7 @@ ModIDS = {
     }
 
     admin = {
-    12121212,
+    1,
     }
 
 --\\ Don't mess with anything below this
